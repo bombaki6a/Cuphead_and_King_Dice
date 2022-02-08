@@ -1,4 +1,4 @@
-# Cuphaed and King Dice
+# Cuphead and King Dice
 <p align="center">
     <img width="200" height="200" src="https://i.imgur.com/ihPh85V.png">
 </p>
